@@ -4,7 +4,7 @@ Ths is NPM for Change BG Color when web page is Scrolling.
 
 <h3>Installation</h3>
 
-`npm i bgChangerScroll --save`
+`npm i bg-color-change`
 
 Then...
 ```

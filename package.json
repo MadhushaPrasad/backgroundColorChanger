@@ -1,0 +1,22 @@
+{
+  "name": "bg-color-change",
+  "version": "1.0.0",
+  "description": "Ths is NPM for Change BG Color when web page is Scrolling.",
+  "main": "animation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhushaPrasad/backgroundColorChanger.git"
+  },
+  "keywords": [
+    "bg-color-change"
+  ],
+  "author": "madhusha_99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhushaPrasad/backgroundColorChanger/issues"
+  },
+  "homepage": "https://github.com/MadhushaPrasad/backgroundColorChanger#readme"
+}
