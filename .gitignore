@@ -11,7 +11,6 @@ nbproject
 nbproject/private
 .vscode/
 .vs/
-img
 
 # testing
 /coverage
