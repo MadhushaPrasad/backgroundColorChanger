@@ -7,13 +7,23 @@ Ths is NPM for Change BG Color when web page is Scrolling.
 `npm i bg-color-change`
 
 Then...
+do this tasks in js file.
 ```
-import {BGChange} from 'bgChangerScroll';
-window.addEventListener('scroll', BGChange.bgChange);
+import {BGChange} from 'bg-color-change';
+window.addEventListener('scroll', BGChange);
+```
+import css file as this
+```
+<link rel="stylesheet" href="node_modules/bg-color-change/index.css">
 ```
 <br>
+
 Style Apply 
-```.page``` style class to what is need to change color when scrolling.
+
+```
+.page
+``` 
+style class to what is need to change color when scrolling.
 <br>
 
 

@@ -1,6 +1,6 @@
 {
   "name": "bg-color-change",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Ths is NPM for Change BG Color when web page is Scrolling.",
   "main": "animation.js",
   "scripts": {

@@ -9,4 +9,4 @@ function bgChange() {
     }
 }
 
-module.exports.bgChange = BGChange;
+module.exports.BGChange = bgChange;
