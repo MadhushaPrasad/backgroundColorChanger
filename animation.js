@@ -9,4 +9,4 @@ function bgChange() {
     }
 }
 
-window.addEventListener('scroll', bgChange);
+module.exports.bgChange = BGChange;
